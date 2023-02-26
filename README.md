@@ -1,2 +1,2 @@
 # BIA
-⭕️ Building iOS Apps witt SwiftUI
+⭕️ Building iOS Apps with SwiftUI
